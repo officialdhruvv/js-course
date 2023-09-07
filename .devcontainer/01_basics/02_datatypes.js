@@ -16,3 +16,6 @@ let state;
 
 
 // object
+
+// Primitive
+// 7 types: String, Number, Boolean, Null, undefined, symbol, BigInt
